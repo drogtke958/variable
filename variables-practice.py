@@ -26,7 +26,7 @@ print(favorite_singer)
 print(greetings)
 
 
-# Part 2 / Working with Numbers (Numeric Data)
+Part 2 / Working with Numbers (Numeric Data)
 # Define a variable called my_age and assign it your age as an integer
 my_age = '17'
 # Define a variable called conversion_factor and assign it the value of 2.54 (a float/floating-point number)
@@ -40,7 +40,7 @@ print(book_print)
 
 
 
-# Part 3 / Working with the print ( ) Function
+Part 3 / Working with the print ( ) Function
 # Create three different variables, one for each piece of data described below
 # Remember to follow the rules for naming Python variables
 # Use the print function to print your first name on your screen
